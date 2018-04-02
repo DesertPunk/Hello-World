@@ -1,2 +1,2 @@
 # Hello-World
-Just a Repository for all my junk programing files im working on.
+My Python-3.x Repository for the random code I'm working on.
